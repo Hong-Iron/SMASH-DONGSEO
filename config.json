@@ -20,5 +20,50 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "스튜던트 플라자": {
+      "style": "concrete",
+      "wall": "#e6e9ec",
+      "glass": "#3e5466",
+      "frame": "#1b688e"
+    },
+    "동서대학교 뉴밀레니엄관": {
+      "style": "stone",
+      "wall": "#d4dae0",
+      "glass": "#4a5868",
+      "frame": "#9daabc"
+    },
+    "민석 스포츠센터": {
+      "style": "tan",
+      "wall": "#dccbbf",
+      "glass": "#4d7a78",
+      "frame": "#bcb4a7"
+    },
+    "산학협력관": {
+      "style": "ribbon",
+      "wall": "#f2f2ee",
+      "glass": "#3a4248",
+      "frame": "#969796"
+    },
+    "동서대학교 디자인홀": {
+      "style": "stone",
+      "wall": "#eeedf1",
+      "glass": "#3e4d63",
+      "frame": "#aeacb6"
+    },
+    "동서대학교 UIT관": {
+      "style": "ribbon",
+      "wall": "#e2e4e7",
+      "glass": "#3f6f6f",
+      "frame": "#848c95"
+    },
+    "동서대학교 대학교회": {
+      "style": "stone",
+      "wall": "#eceee6",
+      "glass": "#3f6a5a",
+      "frame": "#e9dfb3"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
